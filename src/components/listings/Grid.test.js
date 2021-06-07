@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import data from "../../data/courses.json";
 
 const numItems = data.length;
